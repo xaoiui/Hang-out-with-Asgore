@@ -1,0 +1,114 @@
+{
+  "version": "1.0.2",
+  "name": "jail",
+  "props": [
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [      ],
+      "assetPath": "image1",
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "stageBack",
+      "position": [
+        -592,
+        -439
+      ],
+      "scale": 1,
+      "scroll": [
+        0.9,
+        0.9
+      ],
+      "startingAnimation": null,
+      "zIndex": 10
+    },
+    {
+      "alpha": 1,
+      "angle": 0,
+      "animType": "sparrow",
+      "animations": [      ],
+      "assetPath": "image0",
+      "blend": "",
+      "color": "#FFFFFF",
+      "danceEvery": 0,
+      "flipX": false,
+      "flipY": false,
+      "isPixel": false,
+      "name": "stageFront",
+      "position": [
+        -724,
+        589
+      ],
+      "scale": 1.1,
+      "scroll": [
+        0.9,
+        0.9
+      ],
+      "startingAnimation": null,
+      "zIndex": 20
+    }
+  ],
+  "characters": {
+    "bf": {
+      "alpha": 1,
+      "angle": 0,
+      "cameraOffsets": [
+        -100,
+        -100
+      ],
+      "position": [
+        989.5,
+        885
+      ],
+      "scale": 1,
+      "scroll": [
+        1,
+        1
+      ],
+      "zIndex": 300
+    },
+    "dad": {
+      "alpha": 1,
+      "angle": 0,
+      "cameraOffsets": [
+        150,
+        -100
+      ],
+      "position": [
+        335,
+        885
+      ],
+      "scale": 1,
+      "scroll": [
+        1,
+        1
+      ],
+      "zIndex": 200
+    },
+    "gf": {
+      "alpha": 1,
+      "angle": 0,
+      "cameraOffsets": [
+        0,
+        0
+      ],
+      "position": [
+        751.5,
+        787
+      ],
+      "scale": 1,
+      "scroll": [
+        1,
+        1
+      ],
+      "zIndex": 100
+    }
+  },
+  "cameraZoom": 1.1,
+  "directory": "shared"
+}
